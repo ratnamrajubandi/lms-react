@@ -11,7 +11,7 @@ const LoginComponent = () => {
           backgroundImage: "url('/bg5.jpg')"
         }}>
         <div className="p-10 xs:p-0 mx-auto md:w-full md:max-w-md">
-          <img className="text-center mx-auto" src="../public/logo.png" alt="No image" />
+          <img className="text-center mx-auto" src="/logo.png" alt="No image" />
           <h1 className="font-bold text-center text-2xl mb-5">Welcome To Kona LMS</h1>
 
           <div className="bg-white shadow w-full rounded-lg divide-y divide-gray-200">
