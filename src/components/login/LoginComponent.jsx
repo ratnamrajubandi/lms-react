@@ -9,13 +9,13 @@ const LoginComponent = () => {
       <div
         className="min-h-screen  flex flex-col justify-center sm:py-12 bg-cover"
         style={{
-          backgroundImage: "url('../src/assets/bg5.jpg')",
+          backgroundImage: "url('../public/bg5.jpg')",
         }}
       >
         <div className="p-10 xs:p-0 mx-auto md:w-full md:max-w-md">
           <img
             className="text-center mx-auto"
-            src="../src/assets/logo.png"
+            src="../public/logo.png"
             alt="No image"
           />
           <h1 className="font-bold text-center text-2xl mb-5">
